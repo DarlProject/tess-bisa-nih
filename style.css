@@ -42,7 +42,7 @@
 	padding: 10px;
 }
 .blur-scroll-box {
-  transform: translateY(-399%);
+  transform: translateY(-299%);
   text-align: center;
   width: 90vw;
   max-width: 400px;
